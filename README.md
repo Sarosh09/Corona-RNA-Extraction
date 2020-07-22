@@ -18,6 +18,8 @@ For this reason we need to get the complimentary, to retrieve the genome of the 
 [About MN988668](https://www.ncbi.nlm.nih.gov/nuccore/MN988668)   
 [MN988668 data file](https://www.ncbi.nlm.nih.gov/nuccore/MN988668.1?report=fasta)
 
+The data is represented in FASTA, a text based format for representing sequences.
+
 The data files contain the cDNA, with first line being the ID for the genome and rest is the cDNA sequence.
 
 The scripts create a complimentary sequence for this sequence to retrieve the original sequence of the virus.
