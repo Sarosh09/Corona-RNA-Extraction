@@ -20,7 +20,7 @@ For this reason we need to get the complimentary, to retrieve the genome of the 
 
 The data files contain the cDNA, with first line being the ID for the genome and rest is the cDNA sequence.
 
-The scripts create a complimentary sequence for this sequence to retrieve the originel sequence of the virus.
+The scripts create a complimentary sequence for this sequence to retrieve the original sequence of the virus.
 
 ### Sequence Complimenting Rule
 #### DNA
@@ -32,7 +32,7 @@ DNA complementary base pairing rule
 * G -> C
 * T -> A
 #### RNA
-Adenine (A), Thymine (T), Cytosine (C), Guanine (G), Uracil (U)
+Adenine (A), Cytosine (C), Guanine (G), Uracil (U)
 
 RNA complementary base pairing rule
 * A -> U
